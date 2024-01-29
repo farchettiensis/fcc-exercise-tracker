@@ -7,8 +7,6 @@ This is a simple Exercise Tracker API built using Express.js and MongoDB. It all
 - [Installation](#installation)
 - [Usage](#usage)
 - [Endpoints](#endpoints)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
